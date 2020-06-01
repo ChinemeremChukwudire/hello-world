@@ -1,6 +1,6 @@
 # hello-world
 Just another repository.
 
-Hello, I am Chinemerem Chukwudire. 
+Hello, I am Chinemerem Chukwudire from Nigeria.
 I am a UI/UX designer in training with HNG.
 I love UI design and hope to make out the best of this training.
